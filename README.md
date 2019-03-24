@@ -10,3 +10,5 @@ do that with my music as well, so I figured that I might as well automate this.
 Use Applescript to interface with built in Mac applications.
 Use Python to deal with speech to text, text to speech, yadayada.
 Applescript may be called from Python using the wrapper py-applescript.
+
+Might be worthwhile to run it on a raspberry pi that communicates with laptop through bluetooth instead of having to keep something running on laptop 24/7
